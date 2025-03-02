@@ -34,7 +34,7 @@ I draw all kind of things, you can find them on my website or on Instagram.
 
 I also 3D print stuff life size and then paint them, I didn't posted any of my creations yet but that wouldn't last...
 
-I am also in High School, so I spend most of my time sat on a chair listening to a teacher 👨‍🏫 or sleeping 🛌.
+I am also in High School, so I spend most of my time sat on a chair listening to a teacher 👨‍🏫 or asleep 🛌.
 
 <!---
 AdlarX9/AdlarX9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
