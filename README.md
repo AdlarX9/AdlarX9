@@ -24,7 +24,7 @@ You can find this project on my repository AdlarX9/Project-P.
 
 As a side project, I'm working on a reproduction of the Spot robot from Boston Dynamics. This project consists of making a 3D and physics engines, and an AI for the dog robot to learn how to walk and run.
 
-In the future, I will probably remake my portfolio because I find it simple and not impressive. \
+In the future, I will probably remake my portfolio because I find it simple and not impressive.
 
 
 ## Repositories
