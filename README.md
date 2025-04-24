@@ -27,11 +27,12 @@ As a side project, I'm working on a reproduction of the Spot robot from Boston D
 In the future, I will probably remake my portfolio because I find it simple and not impressive.
 
 
-## Repositories
+## My Projects
 
-The following repositories are from the newest to the oldest one:
+The following repositories are ranked from the newest to the oldest one:
 - *[`Project P`](https://github.com/AdlarX9/Project-P) — Current project
 - *[`Empire`](https://github.com/AdlarX9/empire) — Side project
+- *[`Bletchley's Adventure`](https://github.com/Equinoxs/trophees-nsi) — A 2D video game in Bletchley Park for the Trophées NSI 2025 (made with others)
 - *[`3D engine ASCII`](https://github.com/AdlarX9/3D-engine-ascii) — A 3D engine which renders in the terminal
 - [`Print it`](https://github.com/AdlarX9/print-it) — A tool to display big words (the characters are made of characters on multiple lines) in the terminal
 - *[`Tweeter`](https://github.com/AdlarX9/Tweeter) — A real-time global chatbox (no plagiarism)
