@@ -3,7 +3,7 @@
 ## Who am I?
 
 - 👋 Hi, I’m **@AdlarX9**.
-- 🧠 My passion lies in **algorithmics**, driven by deep **mathematical concepts**, and I’m constantly diving into the world of **of code**.
+- 🧠 My passion lies in **algorithmics**, driven by deep **mathematical concepts**, and I’m constantly diving into the world of **code**.
 - 🌱 Currently, I’m not building a Netflix clone. It's Nitflex and it consists of watching locally hosted films and series.
 - 💡 I’m always open to collaborate on exciting projects.
 - 📫 Feel free to reach out to me on **Instagram** — let's connect!
