@@ -14,7 +14,7 @@
 
 ---
 
-**Programmin languages I have worked with:**
+**Programming languages I have worked with:**
 
 <!-- Badges des langages -->
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
