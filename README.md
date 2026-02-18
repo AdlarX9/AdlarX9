@@ -12,6 +12,10 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AdlarX9&show_icons=true" />
 </picture>
 
+---
+
+**Programmin languages I have worked with:**
+
 <!-- Badges des langages -->
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
@@ -25,6 +29,8 @@
 ![Rust](https://img.shields.io/badge/Language-Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?logo=bash&logoColor=white&style=flat-square)
+
+**Mastered technologies:**
 
 <!-- Badges des technologies / frameworks -->
 ![React](https://img.shields.io/badge/Tech-React-61DAFB?logo=react&logoColor=black&style=flat-square)
