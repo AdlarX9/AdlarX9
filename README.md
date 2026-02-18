@@ -1,6 +1,16 @@
 # 👨‍💻 Profile
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AdlarX9&layout=compact&theme=default)
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=AdlarX9&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=AdlarX9&show_icons=true&theme=shadow_red"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdlarX9&show_icons=true" />
+</picture>
 
 <!-- Badges des langages -->
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
