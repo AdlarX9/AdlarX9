@@ -53,7 +53,7 @@
 
 ---
 
-***Checkout my legendary website!*** 👉 [**https://pifpafdeluxe.fr**](https://pifpafdeluxe.fr)  
+***Checkout my legendary website!*** 👉 [**https://alexis-larose.com**](https://alexis-larose.com)  
 
 <img src="https://raw.githubusercontent.com/AdlarX9/portfolio-v2/refs/heads/main/public/favicon/favicon.svg" width="180" alt="Logo" />
  
@@ -108,4 +108,6 @@ When I'm not coding or sketching, I enjoy **3D printing life-size models** and t
 I'm hooping from times to times (playing street basketball). FYI, I'm 1m95 or 6'5" so that helps :)  
 By the way, I’m still in **high school**, so I spend most of my time **sat** on a chair listening to a teacher or asleep! 🛌 👨‍🏫
 
-**Reach out**: master@pifpafdeluxe.fr
+---
+
+🔥 **Reach out**: monsieur@alexis-larose.com
