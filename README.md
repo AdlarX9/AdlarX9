@@ -103,7 +103,7 @@ Here's a list of my current and past projects, from the latest to the oldest:
 ## 🎨 Other than code stuff
 
 I’m also into **drawing**. I create all sorts of artwork, which you can check out on my website or on [**Instagram**](https://www.instagram.com/alexis_lrse/). 🎨  
-When I'm not coding or sketching, I enjoy **3D printing life-size models** and then **painting** them: check them out on [my website](https://pifpafdeluxe.fr)!
+When I'm not coding or sketching, I enjoy **3D printing life-size models** and then **painting** them: check them out on [my website](https://alexis-larose.com)!
 
 I'm hooping from times to times (playing street basketball). FYI, I'm 1m95 or 6'5" so that helps :)  
 By the way, I’m still in **high school**, so I spend most of my time **sat** on a chair listening to a teacher or asleep! 🛌 👨‍🏫
