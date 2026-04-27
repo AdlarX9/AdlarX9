@@ -83,7 +83,7 @@ Our team consisted of *[Equinoxs](https://github.com/Equinoxs)*, *[Poshou](https
 Here's a list of my current and past projects, from the latest to the oldest:
 | Projet | Description | Badges |
 |---|---|---|
-| [**Free Throw Lab**](https://github.com/AdlarX9/baslet) | Free Throw Simulator with great realism | ![Video Game](https://img.shields.io/badge/type-video%20game-FF4757?style=flat-square) ![Deployed](https://img.shields.io/badge/status-deployed-brightgreen?style=flat-square) |
+| [**Free Throw Lab**](https://github.com/AdlarX9/basket) | Free Throw Simulator with great realism | ![Video Game](https://img.shields.io/badge/type-video%20game-FF4757?style=flat-square) ![Deployed](https://img.shields.io/badge/status-deployed-brightgreen?style=flat-square) |
 | [**CodePulse**](https://github.com/AdlarX9/codepulse) | Desktop app to get precious insights about the code of a project | ![Desktop App](https://img.shields.io/badge/type-desktop%20app-2D3748?style=flat-square) ![Tool](https://img.shields.io/badge/type-tool-9F7AEA?style=flat-square) ![Deployed](https://img.shields.io/badge/status-deployed-brightgreen?style=flat-square) |
 | [**Alexis' Portfolio**](https://github.com/AdlarX9/portfolio-v2) | My portfolio | ![Portfolio](https://img.shields.io/badge/site-portfolio-FFB020?style=flat-square) ![Deployed](https://img.shields.io/badge/status-deployed-brightgreen?style=flat-square) |
 | [**Nitflex**](https://github.com/AdlarX9/nitflex) | Platform to watch your favorite locally hosted films | ![Web App](https://img.shields.io/badge/type-web%20app-0052CC?style=flat-square) ![⭐ Must‑see project](https://img.shields.io/badge/%E2%AD%90%20Must--see-Project-ff69b4?style=flat-square) |
